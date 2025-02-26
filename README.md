@@ -22,6 +22,7 @@ Actualmente, estoy en mi tercer año de Ingeniería Informática en la Facultad 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
 ![OCaml](https://img.shields.io/badge/OCaml-EF7A08?style=for-the-badge&logo=ocaml&logoColor=white)  
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
+![Erlang](https://img.shields.io/badge/Erlang-A90533?style=for-the-badge&logo=erlang&logoColor=white) 
 
 ### 🖥️ **Frameworks, Librerías y entornos:**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
