@@ -47,7 +47,7 @@ Chabot usando software propio de Denodo para la gestión de datos y posterior en
 ---
 
 ## 📊 Estadísticas de GitHub  
-
+<!-- https://github.com/anuraghazra/github-readme-stats -->
 | [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jjsantamariasantos&theme=dark\&show_icons=true\&rank_icon=github)][gh_profile] | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjsantamariasantos&layout=compact&theme=dark&langs_count=8&hide=Jupyter%20Notebook&exclude_repo=MUNICS-SAPP-P1,MUNICS-SAPP-P2,MUNICS-BC-Practica1,manual-supervivencia-fic)][gh_profile] |
 |:--:|:--:|
 
