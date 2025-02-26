@@ -24,7 +24,7 @@ Actualmente, estoy en mi tercer año de Ingeniería Informática en la Facultad 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
 ![Erlang](https://img.shields.io/badge/Erlang-A90533?style=for-the-badge&logo=erlang&logoColor=white) 
 
-### 🖥️ **Frameworks, Librerías y entornos:**  
+### 🖥️ **Frameworks, Librerías y Entornos:**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
 ![GTK](https://img.shields.io/badge/GTK-4.0-blue?style=for-the-badge)  
