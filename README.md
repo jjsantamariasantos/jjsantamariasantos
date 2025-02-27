@@ -64,6 +64,6 @@ Chabot usando software propio de Denodo para la gestión de datos y posterior en
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/jesús-santamaría-santos)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jotaoleiros@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([www.linkedin.com/in/jesús-santamaría-santos](https://www.linkedin.com/in/jes%C3%BAs-santamar%C3%ADa-santos/))  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jotaoleiros@gmail.com)  
 
 </div>
