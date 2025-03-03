@@ -52,7 +52,7 @@ Chabot usando software propio de Denodo para la gestión de datos y posterior en
 
 <div align="center">
 
-| [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jjsantamariasantos&theme=dark\&show_icons=true\&rank_icon=github)][gh_profile] | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjsantamariasantos&layout=compact&theme=dark&langs_count=8&cache_seconds=3500)][gh_profile] |
+| [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jjsantamariasantos&theme=dark\&show_icons=true\&rank_icon=github)][gh_profile] | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjsantamariasantos&layout=compact&theme=dark&langs_count=8&cache_seconds=4000)][gh_profile] |
 |:--:|:--:|
 
 </div>
