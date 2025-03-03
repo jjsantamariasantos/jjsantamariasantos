@@ -1,6 +1,5 @@
 [gh_profile]: https://github.com/jjsantamariasantos
 
-
 # 👋 ¡Hola! Soy Jesús José Santamaría Santos
 
 💻 **Ingeniero Informático en formación** | 🎮 **Apasionado por los videojuegos y la programación**  
