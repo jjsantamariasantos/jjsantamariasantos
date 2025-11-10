@@ -4,7 +4,7 @@
 
 💻 **Ingeniero Informático en formación** | 🎮 **Apasionado por los videojuegos y la programación**  
 
-Actualmente, estoy en mi tercer año de Ingeniería Informática en la Facultad de Ingeniería Informática de la UDC. Me encanta trabajar en proyectos desafiantes, desde aplicaciones móviles hasta juegos y sistemas de gestión.  
+Actualmente, estoy en mi cuarto año de Ingeniería Informática en la Facultad de Ingeniería Informática de la UDC.
 
 ---
 
