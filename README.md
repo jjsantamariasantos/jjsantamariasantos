@@ -1,6 +1,6 @@
 [gh_profile]: https://github.com/jjsantamariasantos
 
-# 👋 ¡Hola! Soy Jesús José Santamaría Santos
+# ¡Hola! Soy Jesús José Santamaría Santos
 
 💻 **Ingeniero Informático en formación** | 🎮 **Apasionado por los videojuegos y la programación**  
 
@@ -8,19 +8,19 @@ Actualmente, estoy en mi cuarto año de Ingeniería Informática en la Facultad 
 
 ---
 
-## ⚡ Sobre mí  
-- 🎮 Me encanta desarrollar videojuegos en mi tiempo libre.  
-- 🔥 Siempre explorando nuevas tecnologías y frameworks.  
-- 🌱 Me apasionan las bases de datos y su gestión, optimización y modelado.  
-- 💻 Actualmente aprendiendo más sobre desarrollo backend con Node.js y bases de datos SQL.
+##  Sobre mí  
+-  Me encanta desarrollar videojuegos en mi tiempo libre.  
+-  Siempre explorando nuevas tecnologías y frameworks.  
+-  Me apasionan las bases de datos y su gestión, optimización y modelado.  
+-  Actualmente aprendiendo más sobre desarrollo backend con Node.js y bases de datos SQL.
 
 ---
 
-## 🔧 Tecnologías y Herramientas  
+##  Tecnologías y Herramientas  
 
 <div align="center">
 
-### 💻 **Lenguajes de Programación:**  
+###  **Lenguajes de Programación:**  
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/)  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/w/c)  [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://docs.oracle.com/en/java/)  [![OCaml](https://img.shields.io/badge/OCaml-EF7A08?style=for-the-badge&logo=ocaml&logoColor=white)](https://ocaml.org/docs/)  [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/guides)  [![Erlang](https://img.shields.io/badge/Erlang-A90533?style=for-the-badge&logo=erlang&logoColor=white)](https://www.erlang.org/docs)  [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)  [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
 
@@ -36,11 +36,11 @@ Actualmente, estoy en mi cuarto año de Ingeniería Informática en la Facultad 
 
 ---
 
-## 🚀 Proyectos Destacados  
+##  Proyectos Destacados  
 
 <div align="center">
 
-### 🏆 **Reto Denodo HackUDC 2025 ~Olympedia**  
+###  **Reto Denodo HackUDC 2025 ~Olympedia**  
 Chabot usando software propio de Denodo para la gestión de datos y posterior entreanmiento de LLMS. 
 🔗 [Repositorio](https://github.com/jjsantamariasantos/hackaton2025)
 
@@ -48,7 +48,7 @@ Chabot usando software propio de Denodo para la gestión de datos y posterior en
 
 ---
 
-## 📊 Estadísticas de GitHub  
+##  Estadísticas de GitHub  
 
 <div align="center">
 
@@ -59,7 +59,7 @@ Chabot usando software propio de Denodo para la gestión de datos y posterior en
 
 ---
 
-## 📫 Contacto  
+##  Contacto  
 
 <div align="center">
   
