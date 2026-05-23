@@ -4,7 +4,7 @@
 
  **Ingeniero Informático en formación**  
 
-Actualmente, estoy en mi cuarto año de Ingeniería Informática en la Facultad de Ingeniería Informática de la UDC.
+Actualmente, estoy en mi cuarto año de Ingeniería Informática en la Facultad de Informática de la UDC.
 
 ---
 
