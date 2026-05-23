@@ -2,7 +2,7 @@
 
 # ¡Hola! Soy Jesús José Santamaría Santos
 
-💻 **Ingeniero Informático en formación** | 🎮 **Apasionado por los videojuegos y la programación**  
+ **Ingeniero Informático en formación**  
 
 Actualmente, estoy en mi cuarto año de Ingeniería Informática en la Facultad de Ingeniería Informática de la UDC.
 
